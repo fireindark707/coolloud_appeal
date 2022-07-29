@@ -1,6 +1,6 @@
 # 苦勞網新聞稿訴求資料集
 
-請直接下載cool_pred_target_content.csv
+請直接下載[cool_pred_target_content.csv](https://github.com/fireindark707/coolloud_appeal/blob/main/cool_pred_target_content.csv)
 
 ## 欄位說明
 
